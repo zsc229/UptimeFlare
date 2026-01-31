@@ -26,6 +26,13 @@ const workerConfig: WorkerConfig = {
     target: 'https://m.zkw007.dpdns.org/',
     checkProxy: 'globalping://ygvknfllg4mgy7l5phhgrpy5nqwnukln/?magic=CN'
     },
+     {
+    id: 'mianfeidaili',
+    name: '免费代理',
+    method: 'GET',
+    target: 'https://zkw123.de5.net/',
+    checkProxy: 'globalping://ygvknfllg4mgy7l5phhgrpy5nqwnukln/?magic=CN'
+    },
   ],
   // [Optional] Notification settings
   notification: {
